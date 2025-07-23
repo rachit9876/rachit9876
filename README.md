@@ -1,7 +1,4 @@
-# Welcome to My AI Playground
-
-> **"Hello, I like to use AI at its max."**
-
+# Welcome to My Playground
 ---
 
 ### About Me
