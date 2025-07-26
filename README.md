@@ -1,5 +1,3 @@
----
-
 ### My Goals
 
 * Learn everything AI can offer
