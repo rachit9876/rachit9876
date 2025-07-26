@@ -1,10 +1,3 @@
-# Welcome to My Playground
-
-### About Me
-
-I’m someone who doesn’t just *use* AI —
-I **push it to its limits**. From automating tasks to generating creative solutions, I explore how far artificial intelligence can go.
-
 ---
 
 ### My Goals
