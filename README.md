@@ -1,14 +1,11 @@
-### My Goals
-
-* Learn everything AI can offer
-* Build smart tools and projects
-* Share knowledge and discoveries
-* Experiment without limits
+### Goals
+- Explore the full potential of AI  
+- Develop intelligent tools and projects  
+- Share insights and discoveries  
+- Innovate without boundaries  
 
 ---
 
 ### Motto
-
-> **Use AI not just smartly — use it *completely*.**
+> **Use AI not just wisely — use it *fully*.**  
 > [MIT License](https://mit-rachit.pages.dev/)
-
