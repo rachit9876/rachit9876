@@ -10,4 +10,5 @@
 ### Motto
 
 > **Use AI not just smartly — use it *completely*.**
+> [MIT License](https://mit-rachit.pages.dev/)
 
