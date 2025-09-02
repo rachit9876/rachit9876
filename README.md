@@ -1,4 +1,6 @@
-![](https://avatars.fastly.steamstatic.com/7c2097f82300317c53525fd73500f7ce10d0c099_full.jpg)
+![1](https://github.com/user-attachments/assets/1be2e4ad-74c1-4ebd-b53d-0e1f1711ca5d)
+
+
 ### Goals
 - Explore the full potential of AI  
 - Develop intelligent tools and projects  
