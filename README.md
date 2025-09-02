@@ -1,7 +1,4 @@
-![2](https://github.com/user-attachments/assets/9c6bdff8-3772-47c3-827e-0dfa4e569343) ![](https://github.com/user-attachments/assets/dc28f104-46e7-436c-9db5-2008047a8dec)
-
-
-
+![2](https://github.com/user-attachments/assets/9c6bdff8-3772-47c3-827e-0dfa4e569343) 
 
 ### Goals
 - Explore the full potential of AI  
