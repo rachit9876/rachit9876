@@ -63,6 +63,9 @@
   <img title="Lens" alt="Lens" width="45px" src="https://i.ibb.co/gLchSMhy/Google-Lens-Icon.webp">
   <img title="Yandex" alt="Yandex" width="45px" src="https://i.ibb.co/ZpNXxPBz/120px-Yandex-icon-svg.webp">
   <img title="Baidu" alt="Baidu" width="45px" src="https://i.ibb.co/4wrwSbRh/baidu-icon.webp">
+    <img title="Duck Duck Go" alt="Duck" width="45px" src="https://i.ibb.co/kk0rJhk/duckduckgo-icon.webp">
+
+
   
   <img title="Express" alt="Express" width="45px" src="https://i.ibb.co/mChNLXyn/Adobe-Express.webp">
   <img title="Open Source" alt="Open Source" width="45px" src="https://i.ibb.co/YBNc6frj/open-Source.webp">
@@ -111,11 +114,13 @@
 
 ## **Connect With Me**
 
-<div align="center">
+<div align="left">
   
-[![Instagram](https://img.shields.io/badge/Instagram-@rachit.zip-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ProBro1015471)
-[![Email](https://img.shields.io/badge/Email-drspacelove@duck.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drspacelove@duck.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@zyfnor-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zyfnor)
+[![Instagram](https://img.shields.io/badge/Instagram-@rachit.zip-7D4698?style=for-the-badge&logo=instagram&logoColor=white)](https://x.com/ProBro1015471)
+[![Email](https://img.shields.io/badge/Email-drspacelove@duck.com-7D4698?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drspacelove@duck.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@zyfnor-7D4698?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zyfnor)
+[![Steam](https://img.shields.io/badge/Steam-zyfnor-7D4698?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/zyfnor/)
+
 
 </div>
 
@@ -128,7 +133,7 @@
 -  [Zero-Day Discovery: My First CVE Experience](https://hackernoon.com/@profinderbro)
 <!-- BLOG-POST-LIST:END -->
 
-## **Jokes**
+## **See This**
 
 <div align="left">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random Joke" />
