@@ -25,9 +25,10 @@
 <div align="left">
   
 ## **My Live Projects** 
-<a href="https://courage-networks.pages.dev/"> <img title="Courage Networks" alt="CN" width="100px" src="https://i.ibb.co/VpDx8Ntr/CN.webp"></a>
-<a href="https://https://mapmind.pages.dev//"> <img title="Map Mind" alt="MM" width="100px" src="https://i.ibb.co/s91PXnBK/mapMind.webp"></a>
-<a href="https://book-kro.pages.dev//"> <img title="Book-Kro" alt="MM" width="100px" src="https://i.ibb.co/G4RHfJ0K/Book-kro.webp"></a>
+<a href="https://courage-networks.pages.dev/"> <img title="Courage Networks" alt="CN" height="100px" src="https://i.ibb.co/VpDx8Ntr/CN.webp"></a>
+<a href="https://book-kro.pages.dev//"> <img title="Book-Kro" alt="MM" height="100px" src="https://i.ibb.co/G4RHfJ0K/Book-kro.webp"></a>
+<a href="https://https://mapmind.pages.dev//"> <img title="Map Mind" alt="MM" height="100px" src="https://i.ibb.co/s91PXnBK/mapMind.webp"></a>
+
 
   ## **Tools**
   <img title="Python" alt="Python" width="45px" src="https://i.ibb.co/DnfXN11/python-original.webp">
