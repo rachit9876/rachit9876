@@ -1,34 +1,50 @@
 <div align="center">
-  <img width="100%" alt="welcome to my profile!" src="https://i.ibb.co/93kkSP5f/dea82df7-3425-4c7c-9616-7d62f805ccc6.jpg">
+  <img width="100%" alt="welcome to my profile!" src="https://i.ibb.co/0pZ0Yt35/header.png">
 </div>
 
+---
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Rachit+Pandey;He/him;Cybersecurity+Enthusiast;OSINT+Specialist;Web+Scraping;Data+Leak+Researcher;Cyber+Geek;Hack+Finder" alt="Cybersecurity Enthusiast, OSINT Lover..., Web Scraping...">
   </a>
 </div>
 
-##
-<div align="left">
+---
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=rachit9876&style=for-the-badge&color=7E3ACE" alt="Profile Views">
   <img src="https://img.shields.io/badge/Focus-Cyber:Vulnerability-7E3ACE?style=for-the-badge" alt="Focus">
 </div>
 
-##
-<img align="left" src="https://i.ibb.co/0pVpdG8f/489448577-038bc195-b666-43ca-9807-2f8cc09bf4f2.gif" height="150" alt="Coding GIF">
-<img align="left" src="https://i.ibb.co/My77PDNG/download.png" height="150" alt="Coding GIF">
-<img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/5dc8d787220415.5db12e7c604d3.gif" height="150" alt="Coding GIF">
-<br><br><br>
-<br><br><br>
+## **About Me**
+
+<img align="right" src="https://i.ibb.co/0pVpdG8f/489448577-038bc195-b666-43ca-9807-2f8cc09bf4f2.gif" height="255" alt="Coding GIF">
+
+```typescript
+const rachitpandey = {
+    pronouns: "he/him",
+    code: ["Python", "JavaScript", "Bash", "SQL"],
+    askMeAbout: 
+    ["cybersecurity", "OSINT", "web scraping", "data analysis"],
+    technologies: {
+    operatingSystems: ["Kali Linux", "Ubuntu", "Windows"],
+    tools: ["Wireshark", "Nmap", "Burp Suite", "Metasploit"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB"],
+    misc: ["Docker", "Git", "Tor", "VPN"]},
+    currentFocus: "Ethical Hacking & Data Leak Research",
+    funFact: "I debug with console.log() and I'm not ashamed! "};
+```
 
 
 <div align="left">
-  
+
 ## **My Live Projects** 
-<a href="https://courage-networks.pages.dev/"> <img title="Courage Networks" alt="CN" width="100px" src="https://i.ibb.co/VpDx8Ntr/CN.webp"></a>
+<a href="https://courage-networks.pages.dev/"> <img title="Courage Networks" alt="CN" width="100px" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/5dc8d787220415.5db12e7c604d3.gif"></a>
 <a href="https://https://mapmind.pages.dev//"> <img title="Map Mind" alt="MM" width="100px" src="https://i.ibb.co/s91PXnBK/mapMind.webp"></a>
 <a href="https://book-kro.pages.dev//"> <img title="Book-Kro" alt="MM" width="100px" src="https://i.ibb.co/G4RHfJ0K/Book-kro.webp"></a>
 
+
+
+  
   ## **Tools**
   <img title="Python" alt="Python" width="45px" src="https://i.ibb.co/DnfXN11/python-original.webp">
   <img title="JavaScript" alt="JavaScript" width="45px" src="https://i.ibb.co/sDxVR97/javascript-original.webp">
@@ -71,6 +87,8 @@
   
   
 </div>
+
+<img align="right" src="https://i.ibb.co/MQ15WyP/489458761-3e8a8a9f-fb88-4fef-8f84-9fb1b61c4364.gif" height="280" alt="Security GIF">
 
 ## **Cybersecurity Toolkit**
 
@@ -145,5 +163,5 @@
 ---
 
 <div align="center">
-  <img alt="Footer" width="100%" src="https://i.ibb.co/YFrvb29R/4bd4acca-327c-4214-bb98-57642fddce2e.jpg">
+  <img alt="Footer" width="100%" src="https://raw.githubusercontent.com/profinderbro/profinderbro/refs/heads/main/footer.png">
 </div>
