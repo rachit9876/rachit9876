@@ -30,7 +30,7 @@
 <a href="https://book-kro.pages.dev/"> <img title="Book-Kro" alt="MM" height="50px" src="https://i.ibb.co/G4RHfJ0K/Book-kro.webp"></a>
 
 
-  ## **Tools**
+  ## **Tools I Use**
   <img title="Python" alt="Python" width="45px" src="https://i.ibb.co/DnfXN11/python-original.webp">
   <img title="JavaScript" alt="JavaScript" width="45px" src="https://i.ibb.co/sDxVR97/javascript-original.webp">
   <img title="HTML5" alt="HTML5" width="45px" src="https://i.ibb.co/zHH232qr/html5-original.webp">
