@@ -27,7 +27,7 @@
   <a href="https://courage-networks.pages.dev/"> <img title="Courage Networks" alt="CN" height="50px" src="https://i.ibb.co/VpDx8Ntr/CN.webp"></a>
   <a href="https://mapmind.pages.dev/"><img title="Map Mind" alt="MM" height="50px" src="https://i.ibb.co/s91PXnBK/mapMind.webp"></a>
   <a href="https://book-kro.pages.dev/"><img title="Book-Kro" alt="MM" height="50px" src="https://i.ibb.co/G4RHfJ0K/Book-kro.webp"></a>
-  <a href="https://zeromask.pages.dev/"><img title="Zero Mask" alt="MM" height="50px" src="https://i.ibb.co/KckyPVY7/mask.png"></a>
+  <a href="https://zeromask.pages.dev/"><img title="Zero Mask" alt="MM" height="50px" src="https://i.ibb.co/F4WjgvsR/mask.webp"></a>
 
 
   <h2>Tools I Use</h2>
