@@ -15,19 +15,20 @@
 </div>
 
 ##
-<img align="left" src="https://i.ibb.co/0pVpdG8f/489448577-038bc195-b666-43ca-9807-2f8cc09bf4f2.gif" height="150" alt="Coding GIF">
-<img align="left" src="https://i.ibb.co/My77PDNG/download.png" height="150" alt="Coding GIF">
-<img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/5dc8d787220415.5db12e7c604d3.gif" height="150" alt="Coding GIF">
+
+<img align="left" src="https://i.ibb.co/0pVpdG8f/489448577-038bc195-b666-43ca-9807-2f8cc09bf4f2.gif" height="100" alt="Coding GIF">
+<img align="left" src="https://i.ibb.co/My77PDNG/download.png" height="100" alt="Coding GIF">
 <br><br><br>
-<br><br><br>
+<br><br>
+
 
 
 <div align="left">
   
 ## **My Live Projects** 
-<a href="https://courage-networks.pages.dev/"> <img title="Courage Networks" alt="CN" height="100px" src="https://i.ibb.co/VpDx8Ntr/CN.webp"></a>
-<a href="https://book-kro.pages.dev//"> <img title="Book-Kro" alt="MM" height="100px" src="https://i.ibb.co/G4RHfJ0K/Book-kro.webp"></a>
-<a href="https://https://mapmind.pages.dev//"> <img title="Map Mind" alt="MM" height="100px" src="https://i.ibb.co/s91PXnBK/mapMind.webp"></a>
+<a href="https://courage-networks.pages.dev/"> <img title="Courage Networks" alt="CN" height="50px" src="https://i.ibb.co/VpDx8Ntr/CN.webp"></a>
+<a href="https://https://mapmind.pages.dev//"> <img title="Map Mind" alt="MM" height="50px" src="https://i.ibb.co/s91PXnBK/mapMind.webp"></a>
+<a href="https://book-kro.pages.dev//"> <img title="Book-Kro" alt="MM" height="50px" src="https://i.ibb.co/G4RHfJ0K/Book-kro.webp"></a>
 
 
   ## **Tools**
