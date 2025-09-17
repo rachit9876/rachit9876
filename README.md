@@ -26,7 +26,7 @@
   
 ## **My Live Projects** 
 <a href="https://courage-networks.pages.dev/"> <img title="Courage Networks" alt="CN" height="50px" src="https://i.ibb.co/VpDx8Ntr/CN.webp"></a>
-<a href="https://https://mapmind.pages.dev//"> <img title="Map Mind" alt="MM" height="50px" src="https://i.ibb.co/s91PXnBK/mapMind.webp"></a>
+<a href="https://https://mindmap.pages.dev//"> <img title="Map Mind" alt="MM" height="50px" src="https://i.ibb.co/s91PXnBK/mapMind.webp"></a>
 <a href="https://book-kro.pages.dev//"> <img title="Book-Kro" alt="MM" height="50px" src="https://i.ibb.co/G4RHfJ0K/Book-kro.webp"></a>
 
 
