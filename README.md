@@ -15,9 +15,8 @@
 </div>
 
 ##
-
-<img align="left" src="https://i.ibb.co/0pVpdG8f/489448577-038bc195-b666-43ca-9807-2f8cc09bf4f2.gif" height="100" alt="Coding GIF">
-<img align="left" src="https://i.ibb.co/My77PDNG/download.png" height="100" alt="Coding GIF">
+<img align="left" src="https://i.ibb.co/My77PDNG/download.png" height="100" alt="skull">
+<img align="left" src="https://i.ibb.co/0pVpdG8f/489448577-038bc195-b666-43ca-9807-2f8cc09bf4f2.gif" width="100" alt="hologram">
 <br><br><br>
 <br><br>
 
