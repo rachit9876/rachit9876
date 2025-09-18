@@ -74,6 +74,9 @@
   <img title="Yandex" alt="Yandex" width="45px" src="https://i.ibb.co/ZpNXxPBz/120px-Yandex-icon-svg.webp">
   <img title="Baidu" alt="Baidu" width="45px" src="https://i.ibb.co/4wrwSbRh/baidu-icon.webp">
   <img title="Duck Duck Go" alt="Duck" width="45px" src="https://i.ibb.co/kk0rJhk/duckduckgo-icon.webp">
+  <img title="Archive.org" alt="Archive" width="45px" src="https://i.ibb.co/bRG1gsPD/archive-org.webp">
+
+
 
   <!-- Other Tools -->
   <img title="Express" alt="Express" width="45px" src="https://i.ibb.co/mChNLXyn/Adobe-Express.webp">
