@@ -62,7 +62,7 @@
   <img title="ChatGPT" alt="ChatGPT" width="45px" src="https://i.ibb.co/6RHB81NV/chatgpt.webp">
   <img title="Claude" alt="Claude" width="45px" src="https://i.ibb.co/j9JzsKCV/Claude-AI-symbol.webp">
   <img title="DeepSeek" alt="DeepSeek" width="45px" src="https://i.ibb.co/Y73h6qcm/640px-Deep-Seek-icon-svg.webp">
-  <img title="GLM 4.5" alt="GLM" width="45px" src="https://i.ibb.co/zTMCZhmY/logo.webp">
+  <img title="GLM 4.5" alt="GLM" width="45px" src="https://i.ibb.co/h1Jqx2VZ/glm-full.webp">
   
   <!-- Hosting Services -->
   <img title="Cloudflare" alt="Cloudflare" width="45px" src="https://i.ibb.co/39qkSs8V/cloudflare-icon.webp">
