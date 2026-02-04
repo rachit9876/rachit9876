@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="welcome to my profile!" src="https://cdn-fast.pages.dev/rachit9876/banner01.webp">
+  <img width="100%" alt="welcome to my profile!" src="https://cdn-public.pages.dev/public/fc5a44dceb66.gif">
 </div>
 
 <div align="center">
@@ -112,5 +112,5 @@
 ---
 
 <div align="center">
-  <img alt="Footer" width="100%" src="https://cdn-fast.pages.dev/rachit9876/banner02.webp">
+  <img alt="Footer" width="100%" src="https://cdn-public.pages.dev/public/20a37a5cc3de.gif">
 </div>
