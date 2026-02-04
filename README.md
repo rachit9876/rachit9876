@@ -7,19 +7,9 @@
 </div>
 
 
-##
-
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=rachit9876&style=for-the-badge&color=FFD700&labelColor=FFD700&textColor=000000" alt="Profile Views">
-  <img src="https://img.shields.io/badge/Focus-Cyber:Vulnerability-black?style=for-the-badge&color=FFD700" alt="Focus">
+  <img src="https://img.shields.io/badge/Focus-Cyber Vulnerability-black?style=for-the-badge&color=FFD700" alt="Focus">
 </div>
-
-##
-
-<img align="left" src="https://cdn-fast.pages.dev/rachit9876/skull.webp" height="100" alt="skull">
-<img align="left" src="https://cdn-fast.pages.dev/rachit9876/neuralMesh.webp" width="100" alt="hologram">
-<br><br><br>
-<br><br>
 
 <div align="left">
   <h2>My Live Projects</h2>
@@ -99,11 +89,10 @@
 
 <h2>Connect With Me</h2>
 <div align="left">
-  
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=black&color=FFD700)](http://instagram.com/rachit.zip)
+
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=black&color=FFD700)](mailto:drspacelove@duck.com)
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=black&color=FFD700)](https://t.me/zyfnor)
-[![Steam](https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=black&color=FFD700)](https://steamcommunity.com/id/zyfnor/)
+[![Steam](https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=black&color=FFD700)](https://steamcommunity.com/id/drspacelove/)
 </div>
 
 <h2>See This</h2>
