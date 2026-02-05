@@ -3,22 +3,16 @@
 <div align="center">
   <img width="100%" src="https://cdn-public.pages.dev/public/fc5a44dceb66.gif" alt="Profile header animation" />
 
-  <br/><br/>
-
   <img
     src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FFD700&size=30&center=true&vCenter=true&width=520&lines=I'm+Rachit;Cybersecurity+Learner;OSINT+Explorer;Vulnerability+Researcher"
     alt="Typing introduction"
   />
-
-  <br/>
 
   <img
     src="https://img.shields.io/badge/Focus-Cyber%20Vulnerability-1a1a1a?style=for-the-badge&color=FFD700"
     alt="Primary focus"
   />
 </div>
-
-<br/>
 
 <h2 align="center">Live Projects</h2>
 
@@ -77,8 +71,6 @@
   </table>
 </div>
 
-<br/>
-
 <h2 align="center">Connect</h2>
 
 <div align="center">
@@ -95,25 +87,17 @@
   </a>
 </div>
 
-<br/>
-
 <h2 align="center">Random Byte</h2>
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random programming joke" />
 </div>
 
-<br/>
-
-<hr/>
-
 <div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=22&pause=1000&color=%23FFD700&center=true&vCenter=true&width=460&lines=Stay+Curious.;Stay+Secure."
     alt="Closing message"
   />
-
-  <br/><br/>
 
   <img width="100%" src="https://cdn-public.pages.dev/public/20a37a5cc3de.gif" alt="Footer animation" />
 </div>
