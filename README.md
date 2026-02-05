@@ -64,10 +64,11 @@
         </a>
       </td>
       <td align="center">
-        <strong>+</strong><br/>
-        <sub><b>More Soon</b></sub>
+        <a href="https://metacleaner.pages.dev/">
+          <img src="https://metacleaner.pages.dev/assets/logo.png" height="50" alt="MetaCleaner" /><br/>
+          <sub><b>Meta Cleaner</b></sub>
+        </a>
       </td>
-    </tr>
   </table>
 </div>
 
