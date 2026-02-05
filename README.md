@@ -13,7 +13,6 @@
     alt="Primary focus"
   />
 </div>
-
 <h2 align="center">Live Projects</h2>
 
 <div align="center">
@@ -65,12 +64,29 @@
       </td>
       <td align="center">
         <a href="https://metacleaner.pages.dev/">
-          <img src="https://metacleaner.pages.dev/assets/logo.png" height="50" alt="MetaCleaner" /><br/>
+          <img src="https://metacleaner.pages.dev/assets/logo.png" height="50" alt="Meta Cleaner" /><br/>
           <sub><b>Meta Cleaner</b></sub>
         </a>
       </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://schan.pages.dev/">
+          <img src="https://schan.pages.dev/assets/image.webp" height="50" alt="Schan" /><br/>
+          <sub><b>Schan</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://iffco-portal.page.gd/index.php">
+          <img src="https://iffco-portal.page.gd/uploads/IFFCOlogo.svg" height="50" alt="IFFCO Portal" /><br/>
+          <sub><b>IFFCO Portal</b></sub>
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
+
+
 
 <h2 align="center">Connect</h2>
 
