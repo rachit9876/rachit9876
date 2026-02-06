@@ -116,5 +116,5 @@
     alt="Closing message"
   />
 
-  <img width="100%" src="https://cdn-public.pages.dev/public/20a37a5cc3de.gif" alt="Footer animation" />
+  <img width="100%" src="https://cdn-public.pages.dev/public/f223971b350d.gif" alt="Footer animation" />
 </div>
