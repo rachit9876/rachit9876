@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <div align="center">
-  <img width="100%" src="https://cdn-public.pages.dev/public/fc5a44dceb66.gif" alt="Profile header animation" />
+  <img width="100%" src="https://cdn-public.pages.dev/public/2b19497024dc.jpg" alt="Profile header animation" />
 
   <img
     src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FFD700&size=30&center=true&vCenter=true&width=520&lines=I'm+Rachit;Cybersecurity+Learner;OSINT+Explorer;Vulnerability+Researcher"
@@ -116,5 +116,5 @@
     alt="Closing message"
   />
 
-  <img width="100%" src="https://cdn-public.pages.dev/public/f223971b350d.gif" alt="Footer animation" />
+  <img width="100%" src="https://cdn-public.pages.dev/public/51dc41fd257c.jpg" alt="Footer animation" />
 </div>
