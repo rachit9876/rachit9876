@@ -19,8 +19,8 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.iccarriers.com/">
-          <img src="https://www.iccarriers.com/assets/imgs/logo.webp" height="50" alt="IC Carriers" /><br/>
+        <a href="https://iccarriers.pages.dev/">
+          <img src="https://iccarriers.pages.dev/assets/imgs/logo.webp" height="50" alt="IC Carriers" /><br/>
           <sub><b>IC Carriers</b></sub>
         </a>
       </td>
