@@ -13,6 +13,7 @@
     alt="Primary focus"
   />
 </div>
+
 <h2 align="center">Live Projects</h2>
 
 <div align="center">
@@ -37,19 +38,13 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://mapmind.pages.dev/">
-          <img src="https://mapmind.pages.dev/assets/mapMind.webp" height="50" alt="Map Mind" /><br/>
-          <sub><b>Map Mind</b></sub>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
         <a href="https://courage-networks.pages.dev/">
           <img src="https://cdn-fast.pages.dev/rachit9876/CN.webp" height="50" alt="Courage Networks" /><br/>
           <sub><b>Courage Networks</b></sub>
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://book-kro.pages.dev/">
           <img src="https://cdn-public.pages.dev/public/3b19e4c52c6c.png" height="50" alt="Book-Kro" /><br/>
@@ -68,25 +63,29 @@
           <sub><b>Meta Cleaner</b></sub>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://schan.pages.dev/">
           <img src="https://schan.pages.dev/assets/image.webp" height="50" alt="Schan" /><br/>
           <sub><b>Schan</b></sub>
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://iffco-portal.page.gd/index.php">
           <img src="https://iffco-portal.page.gd/uploads/IFFCOlogo.svg" height="50" alt="IFFCO Portal" /><br/>
           <sub><b>IFFCO Portal</b></sub>
         </a>
       </td>
+      <td align="center">
+        <a href="https://mapmind.pages.dev/">
+          <img src="https://mapmind.pages.dev/assets/mapMind.webp" height="50" alt="Map Mind" /><br/>
+          <sub><b>Map Mind</b></sub>
+        </a>
+      </td>
     </tr>
   </table>
 </div>
-
-
 
 <h2 align="center">Connect</h2>
 
