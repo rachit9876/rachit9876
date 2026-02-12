@@ -1,19 +1,43 @@
-<!-- GitHub Profile README -->
-
 <div align="center">
+  <!-- Header Image -->
   <img width="100%" src="https://cdn-public.pages.dev/public/2b19497024dc.jpg" alt="Profile header animation" />
-
+  
+  <br/><br/>
+  
+  <!-- Typing Animation Intro -->
   <img
     src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FFD700&size=30&center=true&vCenter=true&width=520&lines=I'm+Rachit;Cybersecurity+Learner;OSINT+Explorer;Vulnerability+Researcher"
     alt="Typing introduction"
   />
 
+  <br/><br/>
+
+  <!-- Focus Badge -->
   <img
     src="https://img.shields.io/badge/Focus-Cyber%20Vulnerability-1a1a1a?style=for-the-badge&color=FFD700"
     alt="Primary focus"
   />
+  
+  <!-- Visitor Badge (Optional but cool) -->
+  <img src="https://komarev.com/ghpvc/?username=rachit9876&style=for-the-badge&color=FFD700" alt="Profile views" />
 </div>
 
+<!-- Skills Section -->
+<h2 align="center">Skills & Tools</h2>
+
+<div align="center">
+  <!-- Dev Tools -->
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,linux&perline=8" alt="Dev Skills" />
+  <br/><br/>
+  <!-- Cyber/OSINT Interests (Text badges for specific tools) -->
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Shodan-FF0000?style=flat-square&logo=shodan&logoColor=white" />
+</div>
+
+<!-- Live Projects Section -->
 <h2 align="center">Live Projects</h2>
 
 <div align="center">
@@ -21,25 +45,25 @@
     <tr>
       <td align="center">
         <a href="https://github.com/rachit9876/bitArchive/releases">
-          <img src="https://cdn-public.pages.dev/public/7306f2977d10.png" height="50" alt="Bit Archive" /><br/>
+          <img src="https://cdn-public.pages.dev/public/7306f2977d10.png" height="50" alt="Bit Archive" onerror="this.style.display='none'"/><br/>
           <sub><b>Bit Archive</b></sub>
         </a>
       </td>
       <td align="center">
         <a href="https://iccarriers.pages.dev/">
-          <img src="https://iccarriers.pages.dev/assets/imgs/logo.webp" height="50" alt="IC Carriers" /><br/>
+          <img src="https://iccarriers.pages.dev/assets/imgs/logo.webp" height="50" alt="IC Carriers" onerror="this.style.display='none'"/><br/>
           <sub><b>IC Carriers</b></sub>
         </a>
       </td>
       <td align="center">
         <a href="https://cdn-public.pages.dev/">
-          <img src="https://cdn-public.pages.dev/public/add0324e2f0d.png" height="50" alt="Image Hosting" /><br/>
+          <img src="https://cdn-public.pages.dev/public/add0324e2f0d.png" height="50" alt="Image Hosting" onerror="this.style.display='none'"/><br/>
           <sub><b>Image Hosting</b></sub>
         </a>
       </td>
       <td align="center">
         <a href="https://cdn-share.pages.dev/">
-          <img src="https://cdn-share.pages.dev/assets/logo.svg" height="50" alt="File Sharing" /><br/>
+          <img src="https://cdn-share.pages.dev/assets/logo.svg" height="50" alt="File Sharing" onerror="this.style.display='none'"/><br/>
           <sub><b>File Sharing</b></sub>
         </a>
       </td>
@@ -47,25 +71,25 @@
     <tr>
       <td align="center">
         <a href="https://courage-networks.pages.dev/">
-          <img src="https://cdn-fast.pages.dev/rachit9876/CN.webp" height="50" alt="Courage Networks" /><br/>
+          <img src="https://cdn-fast.pages.dev/rachit9876/CN.webp" height="50" alt="Courage Networks" onerror="this.style.display='none'"/><br/>
           <sub><b>Courage Networks</b></sub>
         </a>
       </td>
       <td align="center">
         <a href="https://book-kro.pages.dev/">
-          <img src="https://cdn-public.pages.dev/public/3b19e4c52c6c.png" height="50" alt="Book-Kro" /><br/>
+          <img src="https://cdn-public.pages.dev/public/3b19e4c52c6c.png" height="50" alt="Book-Kro" onerror="this.style.display='none'"/><br/>
           <sub><b>Book-Kro</b></sub>
         </a>
       </td>
       <td align="center">
         <a href="https://commentanalyzer.pages.dev/">
-          <img src="https://cdn-fast.pages.dev/rachit9876/commentanalyzer.webp" height="50" alt="Comment Analyzer" /><br/>
+          <img src="https://cdn-fast.pages.dev/rachit9876/commentanalyzer.webp" height="50" alt="Comment Analyzer" onerror="this.style.display='none'"/><br/>
           <sub><b>Comment Analyzer</b></sub>
         </a>
       </td>
       <td align="center">
         <a href="https://metacleaner.pages.dev/">
-          <img src="https://metacleaner.pages.dev/assets/logo.png" height="50" alt="Meta Cleaner" /><br/>
+          <img src="https://metacleaner.pages.dev/assets/logo.png" height="50" alt="Meta Cleaner" onerror="this.style.display='none'"/><br/>
           <sub><b>Meta Cleaner</b></sub>
         </a>
       </td>
@@ -73,19 +97,19 @@
     <tr>
       <td align="center">
         <a href="https://schan.pages.dev/">
-          <img src="https://schan.pages.dev/assets/image.webp" height="50" alt="Schan" /><br/>
+          <img src="https://schan.pages.dev/assets/image.webp" height="50" alt="Schan" onerror="this.style.display='none'"/><br/>
           <sub><b>Schan</b></sub>
         </a>
       </td>
       <td align="center">
         <a href="https://iffco-portal.page.gd/index.php">
-          <img src="https://iffco-portal.page.gd/uploads/IFFCOlogo.svg" height="50" alt="IFFCO Portal" /><br/>
+          <img src="https://iffco-portal.page.gd/uploads/IFFCOlogo.svg" height="50" alt="IFFCO Portal" onerror="this.style.display='none'"/><br/>
           <sub><b>IFFCO Portal</b></sub>
         </a>
       </td>
       <td align="center">
         <a href="https://mapmind.pages.dev/">
-          <img src="https://mapmind.pages.dev/assets/mapMind.webp" height="50" alt="Map Mind" /><br/>
+          <img src="https://mapmind.pages.dev/assets/mapMind.webp" height="50" alt="Map Mind" onerror="this.style.display='none'"/><br/>
           <sub><b>Map Mind</b></sub>
         </a>
       </td>
@@ -93,6 +117,7 @@
   </table>
 </div>
 
+<!-- Connect Section -->
 <h2 align="center">Connect</h2>
 
 <div align="center">
@@ -109,17 +134,20 @@
   </a>
 </div>
 
+<!-- Random Joke Section -->
 <h2 align="center">Random Byte</h2>
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random programming joke" />
 </div>
 
+<!-- Footer -->
 <div align="center">
+  <br/>
   <img
     src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=22&pause=1000&color=%23FFD700&center=true&vCenter=true&width=460&lines=Stay+Curious.;Stay+Secure."
     alt="Closing message"
   />
-
+  <br/>
   <img width="100%" src="https://cdn-public.pages.dev/public/51dc41fd257c.jpg" alt="Footer animation" />
 </div>
