@@ -1,16 +1,14 @@
 <div align="center">
   <!-- Header Image -->
-  <img width="100%" src="https://cdn-public.pages.dev/public/2b19497024dc.jpg" alt="Profile header animation" />
+  <img width="100%" src="https://cdn-public.pages.dev/public/f9645d7ea5b4.png" alt="Profile header animation" />
   
-  <br/><br/>
+  <br/>
   
   <!-- Typing Animation Intro -->
   <img
     src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FFD700&size=30&center=true&vCenter=true&width=520&lines=I'm+Rachit;Cybersecurity+Learner;OSINT+Explorer;Vulnerability+Researcher"
     alt="Typing introduction"
   />
-
-  <br/><br/>
 
   <!-- Focus Badge -->
   <img
@@ -149,5 +147,5 @@
     alt="Closing message"
   />
   <br/>
-  <img width="100%" src="https://cdn-public.pages.dev/public/51dc41fd257c.jpg" alt="Footer animation" />
+  <img width="100%" src="https://cdn-public.pages.dev/public/d40fb569525e.jpg" alt="Footer animation" />
 </div>
