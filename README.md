@@ -141,11 +141,9 @@
 
 <!-- Footer -->
 <div align="center">
-  <br/>
   <img
     src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=22&pause=1000&color=%23FFD700&center=true&vCenter=true&width=460&lines=Stay+Curious.;Stay+Secure."
     alt="Closing message"
   />
-  <br/>
   <img width="100%" src="https://cdn-public.pages.dev/public/d40fb569525e.jpg" alt="Footer animation" />
 </div>
