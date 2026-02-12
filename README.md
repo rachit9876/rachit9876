@@ -20,6 +20,12 @@
   <table>
     <tr>
       <td align="center">
+        <a href="https://github.com/rachit9876/bitArchive/releases">
+          <img src="https://cdn-public.pages.dev/public/7306f2977d10.png" height="50" alt="Bit Archive" /><br/>
+          <sub><b>Bit Archive</b></sub>
+        </a>
+      </td>
+      <td align="center">
         <a href="https://iccarriers.pages.dev/">
           <img src="https://iccarriers.pages.dev/assets/imgs/logo.webp" height="50" alt="IC Carriers" /><br/>
           <sub><b>IC Carriers</b></sub>
@@ -37,14 +43,14 @@
           <sub><b>File Sharing</b></sub>
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://courage-networks.pages.dev/">
           <img src="https://cdn-fast.pages.dev/rachit9876/CN.webp" height="50" alt="Courage Networks" /><br/>
           <sub><b>Courage Networks</b></sub>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://book-kro.pages.dev/">
           <img src="https://cdn-public.pages.dev/public/3b19e4c52c6c.png" height="50" alt="Book-Kro" /><br/>
@@ -63,14 +69,14 @@
           <sub><b>Meta Cleaner</b></sub>
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://schan.pages.dev/">
           <img src="https://schan.pages.dev/assets/image.webp" height="50" alt="Schan" /><br/>
           <sub><b>Schan</b></sub>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://iffco-portal.page.gd/index.php">
           <img src="https://iffco-portal.page.gd/uploads/IFFCOlogo.svg" height="50" alt="IFFCO Portal" /><br/>
