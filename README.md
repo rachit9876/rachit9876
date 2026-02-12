@@ -20,19 +20,11 @@
   <img src="https://komarev.com/ghpvc/?username=rachit9876&style=for-the-badge&color=FFD700" alt="Profile views" />
 </div>
 
-<!-- Skills Section -->
-<h2 align="center">Skills & Tools</h2>
+<!-- Tools Section -->
+<h2 align="center">Tools</h2>
 
 <div align="center">
-  <!-- Dev Tools -->
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,linux&perline=8" alt="Dev Skills" />
-  <br/><br/>
-  <!-- Cyber/OSINT Interests (Text badges for specific tools) -->
-  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Shodan-FF0000?style=flat-square&logo=shodan&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=vscode,react,linux,python,js,nodejs,git&perline=8" alt="Skills & Tools" />
 </div>
 
 <!-- Live Projects Section -->
