@@ -25,6 +25,8 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,react,linux,python,js,nodejs,git&perline=8" alt="Skills & Tools" />
+  <img src="https://cdn-public.pages.dev/public/56f8da062373.png" alt="ChatGPT" width="48" height="48" />
+ </div>
 </div>
 
 <!-- Live Projects Section -->
