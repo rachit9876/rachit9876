@@ -95,7 +95,7 @@
       </td>
       <td align="center">
         <a href="https://iffco-portal.page.gd/index.php">
-          <img src="https://iffco-portal.page.gd/uploads/IFFCOlogo.svg" height="50" alt="IFFCO Portal" onerror="this.style.display='none'"/><br/>
+          <img src="https://cdn-public.pages.dev/public/a837897fdf10.webp" height="50" alt="IFFCO Portal" onerror="this.style.display='none'"/><br/>
           <sub><b>IFFCO Portal</b></sub>
         </a>
       </td>
