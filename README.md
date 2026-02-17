@@ -15,19 +15,6 @@
     src="https://img.shields.io/badge/Focus-Cyber%20Vulnerability-1a1a1a?style=for-the-badge&color=FFD700"
     alt="Primary focus"
   />
-  
-  <!-- Visitor Badge (Optional but cool) -->
-  <img src="https://komarev.com/ghpvc/?username=rachit9876&style=for-the-badge&color=FFD700" alt="Profile views" />
-</div>
-
-<!-- Tools Section -->
-<h2 align="center">Tools</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,react,linux,python,js,nodejs,git&perline=8" alt="Skills & Tools" />
-  <img src="https://cdn-public.pages.dev/public/56f8da062373.png" alt="ChatGPT" width="48" height="48" />
- </div>
-</div>
 
 <!-- Live Projects Section -->
 <h2 align="center">Live Projects</h2>
@@ -107,6 +94,15 @@
       </td>
     </tr>
   </table>
+</div>
+
+<!-- Tools Section -->
+<h2 align="center">Tools</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,react,python,js,nodejs,git&perline=8" alt="Skills & Tools" />
+  <img src="https://cdn-public.pages.dev/public/56f8da062373.png" alt="ChatGPT" width="48" height="48" />
+ </div>
 </div>
 
 <!-- Connect Section -->
