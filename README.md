@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header Image -->
-  <img width="100%" src="https://cdn-public.pages.dev/public/f9645d7ea5b4.png" alt="Profile header animation" />
+  <img width="100%" src="https://cdn-public.pages.dev/public/640ece5e6739.jpg" alt="Profile header animation" />
   
   <br/>
   
