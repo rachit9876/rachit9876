@@ -35,8 +35,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://cdn-public.pages.dev/">
-          <img src="https://cdn-public.pages.dev/public/add0324e2f0d.png" height="50" alt="Image Hosting" onerror="this.style.display='none'"/><br/>
+        <a href="https://dr-fast-upload.pages.dev/">
+          <img src="https://dr-fast-upload.pages.dev/public/03eb20059ed1.png" height="50" alt="Image Hosting" onerror="this.style.display='none'"/><br/>
           <sub><b>Image Hosting</b></sub>
         </a>
       </td>
