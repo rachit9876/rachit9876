@@ -24,7 +24,7 @@
   ---
 
   <!-- Live Projects -->
-  <h2>🚀 Live Projects</h2>
+  <h2>✦ Live Projects ✦</h2>
 
   <table>
     <tr>
@@ -107,7 +107,7 @@
   ---
 
   <!-- Tools -->
-  <h2>🛠️ Tools</h2>
+  <h2>✦ Tools ✦</h2>
 
   <img src="https://skillicons.dev/icons?i=vscode,react,python,js,nodejs,git,github,docker,linux,html,css,tailwind&perline=8" alt="Skills & Tools" />
 
@@ -116,7 +116,7 @@
   ---
 
   <!-- Connect -->
-  <h2>📬 Connect</h2>
+  <h2>✦ Connect ✦</h2>
 
   <p>Email: <a href="mailto:acts-same-oval@duck.com">acts-same-oval@duck.com</a></p>
 
@@ -125,7 +125,7 @@
   ---
 
   <!-- Random Byte -->
-  <h2>🎲 Random Byte</h2>
+  <h2>✦ Random Byte ✦</h2>
 
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random programming joke" />
 
