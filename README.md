@@ -100,27 +100,14 @@
 <h2 align="center">Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,react,python,js,nodejs,git&perline=8" alt="Skills & Tools" />
-  <img src="https://cdn-public.pages.dev/public/56f8da062373.png" alt="ChatGPT" width="48" height="48" />
- </div>
+  <img src="https://skillicons.dev/icons?i=vscode,react,python,js,nodejs,git,github,docker,linux,html,css,tailwind&perline=8" alt="Skills & Tools" />
 </div>
 
 <!-- Connect Section -->
 <h2 align="center">Connect</h2>
-
-<div align="center">
-  <a href="mailto:drspacelove@duck.com">
-    <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/zyfnor">
-    <img src="https://img.shields.io/badge/Telegram-1a1a1a?style=for-the-badge&logo=telegram&logoColor=FFD700" alt="Telegram" />
-  </a>
-  &nbsp;
-  <a href="https://steamcommunity.com/id/drspacelove/">
-    <img src="https://img.shields.io/badge/Steam-1a1a1a?style=for-the-badge&logo=steam&logoColor=FFD700" alt="Steam" />
-  </a>
-</div>
+<p align="center">
+  Email : <a href="mailto:acts-same-oval@duck.com">acts-same-oval@duck.com</a>
+</p>
 
 <!-- Random Joke Section -->
 <h2 align="center">Random Byte</h2>
