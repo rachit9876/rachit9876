@@ -1,14 +1,17 @@
 <div align="center">
-  <!-- Header Image -->
-  <img width="100%" src="https://cdn-public.pages.dev/public/f795f5b3c42c.jpeg" alt="Profile header animation" />
-  
-  <br/>
-  
-  <!-- Typing Animation Intro -->
+
+  <!-- Header -->
+  <img width="100%" src="https://cdn-public.pages.dev/public/f795f5b3c42c.jpeg" alt="Profile header" />
+
+  <br/><br/>
+
+  <!-- Intro Typing -->
   <img
     src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FFD700&size=30&center=true&vCenter=true&width=520&lines=I'm+Rachit;Cybersecurity+Learner;OSINT+Explorer;Vulnerability+Researcher"
     alt="Typing introduction"
   />
+
+  <br/>
 
   <!-- Focus Badge -->
   <img
@@ -16,10 +19,13 @@
     alt="Primary focus"
   />
 
-<!-- Live Projects Section -->
-<h2 align="center">Live Projects</h2>
+  <br/><br/>
 
-<div align="center">
+  ---
+
+  <!-- Live Projects -->
+  <h2>🚀 Live Projects</h2>
+
   <table>
     <tr>
       <td align="center">
@@ -92,35 +98,49 @@
           <sub><b>Map Mind</b></sub>
         </a>
       </td>
+      <td></td>
     </tr>
   </table>
-</div>
 
-<!-- Tools Section -->
-<h2 align="center">Tools</h2>
+  <br/>
 
-<div align="center">
+  ---
+
+  <!-- Tools -->
+  <h2>🛠️ Tools</h2>
+
   <img src="https://skillicons.dev/icons?i=vscode,react,python,js,nodejs,git,github,docker,linux,html,css,tailwind&perline=8" alt="Skills & Tools" />
-</div>
 
-<!-- Connect Section -->
-<h2 align="center">Connect</h2>
-<p align="center">
-  Email : <a href="mailto:acts-same-oval@duck.com">acts-same-oval@duck.com</a>
-</p>
+  <br/><br/>
 
-<!-- Random Joke Section -->
-<h2 align="center">Random Byte</h2>
+  ---
 
-<div align="center">
+  <!-- Connect -->
+  <h2>📬 Connect</h2>
+
+  <p>Email: <a href="mailto:acts-same-oval@duck.com">acts-same-oval@duck.com</a></p>
+
+  <br/>
+
+  ---
+
+  <!-- Random Byte -->
+  <h2>🎲 Random Byte</h2>
+
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random programming joke" />
-</div>
 
-<!-- Footer -->
-<div align="center">
+  <br/><br/>
+
+  ---
+
+  <!-- Footer -->
   <img
     src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=22&pause=1000&color=%23FFD700&center=true&vCenter=true&width=460&lines=Stay+Curious.;Stay+Secure."
     alt="Closing message"
   />
-  <img width="100%" src="https://cdn-public.pages.dev/public/d40fb569525e.jpg" alt="Footer animation" />
+
+  <br/>
+
+  <img width="100%" src="https://cdn-public.pages.dev/public/d40fb569525e.jpg" alt="Footer" />
+
 </div>
