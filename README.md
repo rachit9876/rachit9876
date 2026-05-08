@@ -24,7 +24,7 @@
 
 <tr>
 <td width="140" align="center" valign="top">
-<a href="https://iccarriers.com/">
+<a href="https://iccarriers.pages.dev/">
 <img src="https://iccarriers.pages.dev/assets/imgs/logo.webp" width="90" alt="IC Carriers" onerror="this.style.display='none'"/>
 </a>
 </td>
@@ -142,11 +142,6 @@
 </td>
 </tr>
 </table>
-
-<hr>
-
-<h2>✦ Tools ✦</h2>
-<img src="https://skillicons.dev/icons?i=vscode,react,python,js,nodejs,git,github,docker,linux,html,css,tailwind&perline=8" alt="Skills & Tools" />
 
 <hr>
 
