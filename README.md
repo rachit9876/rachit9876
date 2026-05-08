@@ -24,85 +24,190 @@
   ---
 
   <!-- Live Projects -->
-  <h2>✦ Live Projects ✦</h2>
+<!-- Live Projects -->
+<h2>✦ Live Projects ✦</h2>
 
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/rachit9876/bitArchive/releases">
-          <img src="https://cdn-public.pages.dev/public/7306f2977d10.png" height="50" alt="Bit Archive" onerror="this.style.display='none'"/><br/>
-          <sub><b>Bit Archive</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://iccarriers.pages.dev/">
-          <img src="https://iccarriers.pages.dev/assets/imgs/logo.webp" height="50" alt="IC Carriers" onerror="this.style.display='none'"/><br/>
-          <sub><b>IC Carriers</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://dr-fast-upload.pages.dev/">
-          <img src="https://dr-fast-upload.pages.dev/public/03eb20059ed1.png" height="50" alt="Image Hosting" onerror="this.style.display='none'"/><br/>
-          <sub><b>Image Hosting</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://cdn-share.pages.dev/">
-          <img src="https://cdn-share.pages.dev/assets/logo.svg" height="50" alt="File Sharing" onerror="this.style.display='none'"/><br/>
-          <sub><b>File Sharing</b></sub>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://courage-networks.pages.dev/">
-          <img src="https://cdn-fast.pages.dev/rachit9876/CN.webp" height="50" alt="Courage Networks" onerror="this.style.display='none'"/><br/>
-          <sub><b>Courage Networks</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://book-kro.pages.dev/">
-          <img src="https://cdn-public.pages.dev/public/3b19e4c52c6c.png" height="50" alt="Book-Kro" onerror="this.style.display='none'"/><br/>
-          <sub><b>Book-Kro</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://commentanalyzer.pages.dev/">
-          <img src="https://cdn-fast.pages.dev/rachit9876/commentanalyzer.webp" height="50" alt="Comment Analyzer" onerror="this.style.display='none'"/><br/>
-          <sub><b>Comment Analyzer</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://metacleaner.pages.dev/">
-          <img src="https://metacleaner.pages.dev/assets/logo.png" height="50" alt="Meta Cleaner" onerror="this.style.display='none'"/><br/>
-          <sub><b>Meta Cleaner</b></sub>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://schan.pages.dev/">
-          <img src="https://schan.pages.dev/assets/image.webp" height="50" alt="Schan" onerror="this.style.display='none'"/><br/>
-          <sub><b>Schan</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://iffco-portal.page.gd/index.php">
-          <img src="https://cdn-public.pages.dev/public/a837897fdf10.webp" height="50" alt="IFFCO Portal" onerror="this.style.display='none'"/><br/>
-          <sub><b>IFFCO Portal</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://mapmind.pages.dev/">
-          <img src="https://mapmind.pages.dev/assets/mapMind.webp" height="50" alt="Map Mind" onerror="this.style.display='none'"/><br/>
-          <sub><b>Map Mind</b></sub>
-        </a>
-      </td>
-      <td></td>
-    </tr>
-  </table>
+<table width="100%">
+  
+  <tr>
+    <td width="140" align="center" valign="top">
+      <a href="https://github.com/rachit9876/bitArchive/releases">
+        <img src="https://cdn-public.pages.dev/public/7306f2977d10.png"
+             width="90"
+             alt="Bit Archive"
+             onerror="this.style.display='none'"/>
+      </a>
+    </td>
+    <td valign="top">
+      <h3>Bit Archive</h3>
+      A lightweight archive and release distribution platform for storing,
+      organizing, and sharing builds/files efficiently.
+    </td>
+  </tr>
 
-  <br/>
+  <tr>
+    <td width="140" align="center" valign="top">
+      <a href="https://iccarriers.pages.dev/">
+        <img src="https://iccarriers.pages.dev/assets/imgs/logo.webp"
+             width="90"
+             alt="IC Carriers"
+             onerror="this.style.display='none'"/>
+      </a>
+    </td>
+    <td valign="top">
+      <h3>IC Carriers</h3>
+      Logistics and carrier management platform focused on transport,
+      shipment handling, and streamlined operations.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="140" align="center" valign="top">
+      <a href="https://dr-fast-upload.pages.dev/">
+        <img src="https://dr-fast-upload.pages.dev/public/03eb20059ed1.png"
+             width="90"
+             alt="Image Hosting"
+             onerror="this.style.display='none'"/>
+      </a>
+    </td>
+    <td valign="top">
+      <h3>Image Hosting</h3>
+      Fast image upload and hosting service with quick sharing support
+      and CDN based delivery.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="140" align="center" valign="top">
+      <a href="https://cdn-share.pages.dev/">
+        <img src="https://cdn-share.pages.dev/assets/logo.svg"
+             width="90"
+             alt="File Sharing"
+             onerror="this.style.display='none'"/>
+      </a>
+    </td>
+    <td valign="top">
+      <h3>File Sharing</h3>
+      Simple cloud based file transfer and sharing platform with direct
+      access and clean UI.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="140" align="center" valign="top">
+      <a href="https://courage-networks.pages.dev/">
+        <img src="https://cdn-fast.pages.dev/rachit9876/CN.webp"
+             width="90"
+             alt="Courage Networks"
+             onerror="this.style.display='none'"/>
+      </a>
+    </td>
+    <td valign="top">
+      <h3>Courage Networks</h3>
+      Network and infrastructure focused project built around connectivity,
+      deployment, and digital services.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="140" align="center" valign="top">
+      <a href="https://book-kro.pages.dev/">
+        <img src="https://cdn-public.pages.dev/public/3b19e4c52c6c.png"
+             width="90"
+             alt="Book-Kro"
+             onerror="this.style.display='none'"/>
+      </a>
+    </td>
+    <td valign="top">
+      <h3>Book-Kro</h3>
+      Online booking and management platform designed for simplified
+      reservations and scheduling.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="140" align="center" valign="top">
+      <a href="https://commentanalyzer.pages.dev/">
+        <img src="https://cdn-fast.pages.dev/rachit9876/commentanalyzer.webp"
+             width="90"
+             alt="Comment Analyzer"
+             onerror="this.style.display='none'"/>
+      </a>
+    </td>
+    <td valign="top">
+      <h3>Comment Analyzer</h3>
+      Tool for analyzing comments, extracting patterns, sentiment,
+      engagement, and moderation insights.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="140" align="center" valign="top">
+      <a href="https://metacleaner.pages.dev/">
+        <img src="https://metacleaner.pages.dev/assets/logo.png"
+             width="90"
+             alt="Meta Cleaner"
+             onerror="this.style.display='none'"/>
+      </a>
+    </td>
+    <td valign="top">
+      <h3>Meta Cleaner</h3>
+      Privacy oriented utility for removing metadata from files and media
+      before sharing online.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="140" align="center" valign="top">
+      <a href="https://schan.pages.dev/">
+        <img src="https://schan.pages.dev/assets/image.webp"
+             width="90"
+             alt="Schan"
+             onerror="this.style.display='none'"/>
+      </a>
+    </td>
+    <td valign="top">
+      <h3>Schan</h3>
+      Experimental communication and content sharing platform with a
+      modern minimal interface.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="140" align="center" valign="top">
+      <a href="https://iffco-portal.page.gd/index.php">
+        <img src="https://cdn-public.pages.dev/public/a837897fdf10.webp"
+             width="90"
+             alt="IFFCO Portal"
+             onerror="this.style.display='none'"/>
+      </a>
+    </td>
+    <td valign="top">
+      <h3>IFFCO Portal</h3>
+      Utility portal interface built for streamlined access to IFFCO
+      related resources and tools.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="140" align="center" valign="top">
+      <a href="https://mapmind.pages.dev/">
+        <img src="https://mapmind.pages.dev/assets/mapMind.webp"
+             width="90"
+             alt="Map Mind"
+             onerror="this.style.display='none'"/>
+      </a>
+    </td>
+    <td valign="top">
+      <h3>Map Mind</h3>
+      Visualization and mapping based project focused on structured
+      navigation and connected information flow.
+    </td>
+  </tr>
+
+</table>
+
+<br/>
 
   ---
 
