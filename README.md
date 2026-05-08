@@ -24,7 +24,7 @@
 
 <tr>
 <td width="140" align="center" valign="top">
-<a href="https://iccarriers.pages.dev/">
+<a href="https://iccarriers.com/">
 <img src="https://iccarriers.pages.dev/assets/imgs/logo.webp" width="90" alt="IC Carriers" onerror="this.style.display='none'"/>
 </a>
 </td>
