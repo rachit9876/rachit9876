@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://cdn-public.pages.dev/public/f795f5b3c42c.jpeg" alt="Profile header" />
+<img width="100%" src="https://cdn-public.pages.dev/public/09232dfcb912.webp" alt="Profile header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FFD700&size=30&center=true&vCenter=true&width=520&lines=I'm+Rachit;Cybersecurity+Learner;OSINT+Explorer;Vulnerability+Researcher" alt="Typing introduction" />
 
@@ -157,5 +157,5 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=22&pause=1000&color=%23FFD700&center=true&vCenter=true&width=460&lines=Stay+Curious.;Stay+Secure." alt="Closing message" />
 
-<img width="100%" src="https://cdn-public.pages.dev/public/d40fb569525e.jpg" alt="Footer" />
+<img width="100%" src="https://cdn-public.pages.dev/public/58d7be1d5f32.webp" alt="Footer" />
 </div>
