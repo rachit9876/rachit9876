@@ -12,7 +12,7 @@
 
 <table width="100%">
 <tr>
-<td width="140" align="center" valign="top">
+<td width="140" align="center" valign="middle" height="110">
 <a href="https://github.com/rachit9876/media-blocker-chrome">
 <img src="https://dr-fast-upload.pages.dev/public/7cc16d656216.png" width="90" alt="Media Blocker" onerror="this.style.display='none'"/>
 </a>
@@ -23,7 +23,7 @@
 </td>
 </tr>
 <tr>
-<td width="140" align="center" valign="top">
+<td width="140" align="center" valign="middle" height="110">
 <a href="https://github.com/rachit9876/bitArchive/releases">
 <img src="https://cdn-public.pages.dev/public/7306f2977d10.png" width="90" alt="Bit Archive" onerror="this.style.display='none'"/>
 </a>
@@ -35,7 +35,7 @@
 </tr>
 
 <tr>
-<td width="140" align="center" valign="top">
+<td width="140" align="center" valign="middle" height="110">
 <a href="https://iccarriers.pages.dev/">
 <img src="https://iccarriers.pages.dev/assets/imgs/logo.webp" width="90" alt="IC Carriers" onerror="this.style.display='none'"/>
 </a>
@@ -45,9 +45,8 @@
 <p>A corporate website built for a Canadian logistics company, fully optimized for SEO and web indexing.</p>
 </td>
 </tr>
-
 <tr>
-<td width="140" align="center" valign="top">
+<td width="140" align="center" valign="middle" height="110">
 <a href="https://dr-fast-upload.pages.dev/">
 <img src="https://dr-fast-upload.pages.dev/public/03eb20059ed1.png" width="90" alt="Image Hosting" onerror="this.style.display='none'"/>
 </a>
@@ -57,9 +56,8 @@
 <p>A JAMstack based fast, lossless image upload and hosting service. It features quick sharing support, CDN based delivery, and allows up to 25 MB per image.</p>
 </td>
 </tr>
-
 <tr>
-<td width="140" align="center" valign="top">
+<td width="140" align="center" valign="middle" height="110">
 <a href="https://cdn-share.pages.dev/">
 <img src="https://cdn-share.pages.dev/assets/logo.svg" width="90" alt="File Sharing" onerror="this.style.display='none'"/>
 </a>
@@ -69,9 +67,8 @@
 <p>A JAMstack simple clipboard sharing platform with a clean UI. It uses Firebase Realtime Database for direct access, while API keys are stored securely in a serverless environment using Cloudflare Workers.</p>
 </td>
 </tr>
-
 <tr>
-<td width="140" align="center" valign="top">
+<td width="140" align="center" valign="middle" height="110">
 <a href="https://courage-networks.pages.dev/">
 <img src="https://cdn-fast.pages.dev/rachit9876/CN.webp" width="90" alt="Courage Networks" onerror="this.style.display='none'"/>
 </a>
@@ -81,9 +78,8 @@
 <p>A personal hobby archive dedicated to the cartoon <em>Courage the Cowardly Dog</em>. It includes official soundtracks and character information scraped from various websites.</p>
 </td>
 </tr>
-
 <tr>
-<td width="140" align="center" valign="top">
+<td width="140" align="center" valign="middle" height="110">
 <a href="https://book-kro.pages.dev/">
 <img src="https://cdn-public.pages.dev/public/3b19e4c52c6c.png" width="90" alt="Book Kro" onerror="this.style.display='none'"/>
 </a>
@@ -93,9 +89,8 @@
 <p>A demo project featuring an online booking and management platform designed for simplified reservations and scheduling.</p>
 </td>
 </tr>
-
 <tr>
-<td width="140" align="center" valign="top">
+<td width="140" align="center" valign="middle" height="110">
 <a href="https://commentanalyzer.pages.dev/">
 <img src="https://cdn-fast.pages.dev/rachit9876/commentanalyzer.webp" width="90" alt="Comment Analyzer" onerror="this.style.display='none'"/>
 </a>
@@ -105,9 +100,8 @@
 <p>A lexical based tool for analyzing comments, extracting patterns, and providing sentiment, engagement, and moderation insights.</p>
 </td>
 </tr>
-
 <tr>
-<td width="140" align="center" valign="top">
+<td width="140" align="center" valign="middle" height="110">
 <a href="https://metacleaner.pages.dev/">
 <img src="https://metacleaner.pages.dev/assets/logo.png" width="90" alt="Meta Cleaner" onerror="this.style.display='none'"/>
 </a>
@@ -117,9 +111,8 @@
 <p>A privacy oriented utility for removing metadata from files and media before sharing them online. Everything runs client side.</p>
 </td>
 </tr>
-
 <tr>
-<td width="140" align="center" valign="top">
+<td width="140" align="center" valign="middle" height="110">
 <a href="https://schan.pages.dev/">
 <img src="https://schan.pages.dev/assets/image.webp" width="90" alt="Schan" onerror="this.style.display='none'"/>
 </a>
@@ -129,9 +122,8 @@
 <p>A hobby project that serves as a platform to watch famous cartoons, with media scraped and curated from public archives.</p>
 </td>
 </tr>
-
 <tr>
-<td width="140" align="center" valign="top">
+<td width="140" align="center" valign="middle" height="110">
 <a href="https://iffco-portal.page.gd/index.php">
 <img src="https://cdn-public.pages.dev/public/a837897fdf10.webp" width="90" alt="IFFCO Portal" onerror="this.style.display='none'"/>
 </a>
@@ -141,9 +133,8 @@
 <p>A PHP based internship portal built to manage student applications for internships at IFFCO.</p>
 </td>
 </tr>
-
 <tr>
-<td width="140" align="center" valign="top">
+<td width="140" align="center" valign="middle" height="110">
 <a href="https://mapmind.pages.dev/">
 <img src="https://mapmind.pages.dev/assets/mapMind.webp" width="90" alt="Map Mind" onerror="this.style.display='none'"/>
 </a>
