@@ -1,7 +1,8 @@
 <div align="center">
+
 <img width="100%" src="https://cdn-public.pages.dev/public/09232dfcb912.webp" alt="Profile header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FFD700&size=30&center=true&vCenter=true&width=520&lines=I'm+Rachit;Cybersecurity+Learner;OSINT+Explorer;Vulnerability+Researcher" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FFD700&size=30&center=true&vCenter=true&width=520&duration=1000&pause=100&lines=I'm+Rachit;Cybersecurity+Learner;OSINT+Explorer;Vulnerability+Researcher" alt="Typing introduction" />
 
 <img src="https://img.shields.io/badge/Focus-Cyber%20Vulnerability-1a1a1a?style=for-the-badge&color=FFD700" alt="Primary focus" />
 
@@ -10,6 +11,17 @@
 <h2>✦ Live Projects ✦</h2>
 
 <table width="100%">
+<tr>
+<td width="140" align="center" valign="top">
+<a href="https://github.com/rachit9876/media-blocker-chrome">
+<img src="https://dr-fast-upload.pages.dev/public/7d4722e80edd.png" width="90" alt="Media Blocker" onerror="this.style.display='none'"/>
+</a>
+</td>
+<td align="left" valign="top">
+<h3>Media Blocker</h3>
+<p>A privacy focused Chrome extension packed with features. One of its newest additions is Privacy Text, which transforms webpage text into a form that your brain can still read while making it significantly harder for others to understand at a glance. How does it work? Try it yourself and see. This feature is based on the concept of <a href="https://arxiv.org/html/2510.21326v1">typoglycemia</a>.</p>
+</td>
+</tr>
 <tr>
 <td width="140" align="center" valign="top">
 <a href="https://github.com/rachit9876/bitArchive/releases">
@@ -42,7 +54,7 @@
 </td>
 <td align="left" valign="top">
 <h3>Image Hosting</h3>
-<p>A JAMstack-based fast, lossless image upload and hosting service. It features quick sharing support, CDN-based delivery, and allows up to 25 MB per image.</p>
+<p>A JAMstack based fast, lossless image upload and hosting service. It features quick sharing support, CDN based delivery, and allows up to 25 MB per image.</p>
 </td>
 </tr>
 
@@ -73,11 +85,11 @@
 <tr>
 <td width="140" align="center" valign="top">
 <a href="https://book-kro.pages.dev/">
-<img src="https://cdn-public.pages.dev/public/3b19e4c52c6c.png" width="90" alt="Book-Kro" onerror="this.style.display='none'"/>
+<img src="https://cdn-public.pages.dev/public/3b19e4c52c6c.png" width="90" alt="Book Kro" onerror="this.style.display='none'"/>
 </a>
 </td>
 <td align="left" valign="top">
-<h3>Book-Kro</h3>
+<h3>Book Kro</h3>
 <p>A demo project featuring an online booking and management platform designed for simplified reservations and scheduling.</p>
 </td>
 </tr>
@@ -90,7 +102,7 @@
 </td>
 <td align="left" valign="top">
 <h3>Comment Analyzer</h3>
-<p>A lexical-based tool for analyzing comments, extracting patterns, and providing sentiment, engagement, and moderation insights. It calculates sentiment scores using a custom dataset of positive and negative words.</p>
+<p>A lexical based tool for analyzing comments, extracting patterns, and providing sentiment, engagement, and moderation insights.</p>
 </td>
 </tr>
 
@@ -102,7 +114,7 @@
 </td>
 <td align="left" valign="top">
 <h3>Meta Cleaner</h3>
-<p>A privacy-oriented utility for removing metadata from files and media before sharing them online. It is entirely serverless and relies on the client-side HTML Canvas API to strip metadata.</p>
+<p>A privacy oriented utility for removing metadata from files and media before sharing them online. Everything runs client side.</p>
 </td>
 </tr>
 
@@ -126,7 +138,7 @@
 </td>
 <td align="left" valign="top">
 <h3>IFFCO Portal</h3>
-<p>A PHP-based internship portal built to manage student applications for internships at IFFCO. It relies on a MySQL database and is hosted via InfinityFree.</p>
+<p>A PHP based internship portal built to manage student applications for internships at IFFCO.</p>
 </td>
 </tr>
 
@@ -138,7 +150,7 @@
 </td>
 <td align="left" valign="top">
 <h3>Map Mind</h3>
-<p>A visualization and mapping project focused on structured navigation and connected information flow. It uses Firebase Realtime Database for state saving, with API keys securely stored via Cloudflare Workers.</p>
+<p>A visualization and mapping project focused on structured navigation and connected information flow.</p>
 </td>
 </tr>
 </table>
@@ -146,16 +158,19 @@
 <hr>
 
 <h2>✦ Connect ✦</h2>
+
 <p>Email: <a href="mailto:acts-same-oval@duck.com">acts-same-oval@duck.com</a></p>
 
 <hr>
 
 <h2>✦ Random Byte ✦</h2>
+
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random programming joke" />
 
 <hr>
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=22&pause=1000&color=%23FFD700&center=true&vCenter=true&width=460&lines=Stay+Curious.;Stay+Secure." alt="Closing message" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=22&duration=800&pause=50&color=%23FFD700&center=true&vCenter=true&width=460&lines=Stay+Curious.;Stay+Secure." alt="Closing message" />
 
 <img width="100%" src="https://cdn-public.pages.dev/public/58d7be1d5f32.webp" alt="Footer" />
+
 </div>
