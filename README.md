@@ -14,7 +14,7 @@
 <tr>
 <td width="140" align="center" valign="top">
 <a href="https://github.com/rachit9876/media-blocker-chrome">
-<img src="https://dr-fast-upload.pages.dev/public/7d4722e80edd.png" width="90" alt="Media Blocker" onerror="this.style.display='none'"/>
+<img src="https://dr-fast-upload.pages.dev/public/7cc16d656216.png" width="90" alt="Media Blocker" onerror="this.style.display='none'"/>
 </a>
 </td>
 <td align="left" valign="top">
