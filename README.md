@@ -135,12 +135,12 @@
 </tr>
 <tr>
 <td width="140" align="center" valign="middle" height="110">
-<a href="https://mapmind.pages.dev/">
-<img src="https://mapmind.pages.dev/assets/mapMind.webp" width="90" alt="Map Mind" onerror="this.style.display='none'"/>
+<a href="https://7system.pages.dev/">
+<img src="https://dr-fast-upload.pages.dev/public/d99bf38b2c8f.webp" width="90" alt="Map Mind" onerror="this.style.display='none'"/>
 </a>
 </td>
 <td align="left" valign="top">
-<h3>Map Mind</h3>
+<h3>7 System</h3>
 <p>A visualization and mapping project focused on structured navigation and connected information flow.</p>
 </td>
 </tr>
