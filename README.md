@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://cdn-public.pages.dev/public/09232dfcb912.webp" alt="Profile header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FFD700&size=30&center=true&vCenter=true&width=520&duration=1000&pause=100&lines=I'm+Rachit;Cybersecurity+Learner;OSINT+Explorer;Vulnerability+Researcher" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%232DD4BF&size=30&center=true&vCenter=true&width=520&duration=3000&pause=1000&lines=I'm+Rachit;Cybersecurity+Learner;OSINT+Explorer;Vulnerability+Researcher" alt="Typing introduction" />
 
-<img src="https://img.shields.io/badge/Focus-Cyber%20Vulnerability-1a1a1a?style=for-the-badge&color=FFD700" alt="Primary focus" />
+<img src="https://img.shields.io/badge/Focus-Cyber%20Vulnerability-334155?style=for-the-badge&labelColor=1e293b&color=2DD4BF" alt="Primary focus" />
 
 <hr>
 
@@ -19,7 +19,7 @@
 </td>
 <td align="left" valign="top">
 <h3>Media Blocker</h3>
-<p>A privacy focused Chrome extension packed with features. One of its newest additions is Privacy Text, which transforms webpage text into a form that your brain can still read while making it significantly harder for others to understand at a glance. How does it work? Try it yourself and see. This feature is based on the concept of <a href="https://arxiv.org/html/2510.21326v1">typoglycemia</a>.</p>
+<p>A privacy focused Chrome extension with a handful of useful features. One of the newer additions is Privacy Text, which scrambles webpage text in a way that most people can still read but makes it harder to skim at a glance. The idea is based on the <a href="https://arxiv.org/html/2510.21326v1">typoglycemia</a> concept. Worth trying out if you're curious how it works.</p>
 </td>
 </tr>
 <tr>
@@ -30,10 +30,9 @@
 </td>
 <td align="left" valign="top">
 <h3>Bit Archive</h3>
-<p>An Android app built with React Native that provides free unlimited file hosting (up to 25 MB per file) and uses GitHub for seamless authentication.</p>
+<p>An Android app built with React Native. It offers free file hosting up to 25 MB per file and uses GitHub for authentication.</p>
 </td>
 </tr>
-
 <tr>
 <td width="140" align="center" valign="middle" height="110">
 <a href="https://iccarriers.pages.dev/">
@@ -42,7 +41,7 @@
 </td>
 <td align="left" valign="top">
 <h3>Indo Canadian Carriers</h3>
-<p>A corporate website built for a Canadian logistics company, fully optimized for SEO and web indexing.</p>
+<p>A corporate website made for a Canadian logistics company. Built with SEO and web indexing in mind.</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +52,7 @@
 </td>
 <td align="left" valign="top">
 <h3>Image Hosting</h3>
-<p>A JAMstack based fast, lossless image upload and hosting service. It features quick sharing support, CDN based delivery, and allows up to 25 MB per image.</p>
+<p>A JAMstack based image upload and hosting service. Lossless uploads, CDN delivery, and a 25 MB per image limit. Fairly quick to use.</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +63,7 @@
 </td>
 <td align="left" valign="top">
 <h3>File Sharing</h3>
-<p>A JAMstack simple clipboard sharing platform with a clean UI. It uses Firebase Realtime Database for direct access, while API keys are stored securely in a serverless environment using Cloudflare Workers.</p>
+<p>A simple JAMstack clipboard sharing tool with a clean UI. Uses Firebase Realtime Database for access, with API keys kept off the client side via Cloudflare Workers.</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +74,7 @@
 </td>
 <td align="left" valign="top">
 <h3>Courage Networks</h3>
-<p>A personal hobby archive dedicated to the cartoon <em>Courage the Cowardly Dog</em>. It includes official soundtracks and character information scraped from various websites.</p>
+<p>A small hobby archive for fans of <em>Courage the Cowardly Dog</em>. Has some official soundtracks and character info pulled from various public sources.</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +85,7 @@
 </td>
 <td align="left" valign="top">
 <h3>Book Kro</h3>
-<p>A demo project featuring an online booking and management platform designed for simplified reservations and scheduling.</p>
+<p>A demo project for an online booking and scheduling platform. Kept simple on purpose.</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +96,7 @@
 </td>
 <td align="left" valign="top">
 <h3>Comment Analyzer</h3>
-<p>A lexical based tool for analyzing comments, extracting patterns, and providing sentiment, engagement, and moderation insights.</p>
+<p>A lexical based tool that looks at comment sections and tries to surface patterns around sentiment, engagement, and potential moderation flags.</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +107,7 @@
 </td>
 <td align="left" valign="top">
 <h3>Meta Cleaner</h3>
-<p>A privacy oriented utility for removing metadata from files and media before sharing them online. Everything runs client side.</p>
+<p>A small privacy tool for stripping metadata from files before sharing them. Runs entirely in the browser, nothing is uploaded.</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +118,7 @@
 </td>
 <td align="left" valign="top">
 <h3>Schan</h3>
-<p>A hobby project that serves as a platform to watch famous cartoons, with media scraped and curated from public archives.</p>
+<p>A hobby project for watching old cartoons. Media is pulled and organized from public archives.</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +129,7 @@
 </td>
 <td align="left" valign="top">
 <h3>IFFCO Portal</h3>
-<p>A PHP based internship portal built to manage student applications for internships at IFFCO.</p>
+<p>A PHP based internship portal for managing student applications at IFFCO. Built during an internship.</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +140,7 @@
 </td>
 <td align="left" valign="top">
 <h3>7 System</h3>
-<p>A visualization and mapping project focused on structured navigation and connected information flow.</p>
+<p>A mapping and visualization experiment around structured navigation and connected information.</p>
 </td>
 </tr>
 </table>
@@ -160,7 +159,7 @@
 
 <hr>
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=22&duration=800&pause=50&color=%23FFD700&center=true&vCenter=true&width=460&lines=Stay+Curious.;Stay+Secure." alt="Closing message" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=22&duration=3000&pause=1500&color=%232DD4BF&center=true&vCenter=true&width=460&lines=Stay+Curious.;Stay+Secure." alt="Closing message" />
 
 <img width="100%" src="https://cdn-public.pages.dev/public/58d7be1d5f32.webp" alt="Footer" />
 
