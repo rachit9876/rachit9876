@@ -79,17 +79,6 @@
 </tr>
 <tr>
 <td width="140" align="center" valign="middle" height="110">
-<a href="https://book-kro.pages.dev/">
-<img src="https://cdn-public.pages.dev/public/3b19e4c52c6c.png" width="90" alt="Book Kro" onerror="this.style.display='none'"/>
-</a>
-</td>
-<td align="left" valign="top">
-<h3>Book Kro</h3>
-<p>A demo project for an online booking and scheduling platform. Kept simple on purpose.</p>
-</td>
-</tr>
-<tr>
-<td width="140" align="center" valign="middle" height="110">
 <a href="https://commentanalyzer.pages.dev/">
 <img src="https://cdn-fast.pages.dev/rachit9876/commentanalyzer.webp" width="90" alt="Comment Analyzer" onerror="this.style.display='none'"/>
 </a>
