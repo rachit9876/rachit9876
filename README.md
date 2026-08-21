@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://cdn-public.pages.dev/public/09232dfcb912.webp" alt="Profile header" />
+<img width="100%" src="https://dr-fast-upload.pages.dev/public/4b729e9e4b52.png" alt="Profile header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%232DD4BF&size=30&center=true&vCenter=true&width=520&duration=3000&pause=1000&lines=Hello%2C+I'm+Rachit;Exploring+New+Hobbies..." alt="Typing introduction" />
 
@@ -150,6 +150,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=22&duration=3000&pause=1500&color=%232DD4BF&center=true&vCenter=true&width=460&lines=Stay+Curious.;Stay+Secure." alt="Closing message" />
 
-<img width="100%" src="https://cdn-public.pages.dev/public/58d7be1d5f32.webp" alt="Footer" />
+<img width="100%" src="https://dr-fast-upload.pages.dev/public/4b729e9e4b52.png" alt="Footer" />
 
 </div>
