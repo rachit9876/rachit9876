@@ -13,13 +13,13 @@
 <table width="100%">
 <tr>
 <td width="140" align="center" valign="middle" height="110">
-<a href="https://github.com/rachit9876/media-blocker-chrome">
+<a href="https://github.com/rachit9876/TabMaxxing">
 <img src="https://dr-fast-upload.pages.dev/public/7cc16d656216.png" width="90" alt="Media Blocker" onerror="this.style.display='none'"/>
 </a>
 </td>
 <td align="left" valign="top">
 <h3>Media Blocker</h3>
-<p>A privacy focused Chrome extension with a handful of useful features. One of the newer additions is Privacy Text, which scrambles webpage text in a way that most people can still read but makes it harder to skim at a glance. The idea is based on the <a href="https://arxiv.org/html/2510.21326v1">typoglycemia</a> concept. Worth trying out if you're curious how it works.</p>
+<p>Max out your Chromium tabs: Visual privacy filters, audio compressor & mono downmixing, 1-click clipboard image copier, Instagram downloader, <a href="https://arxiv.org/html/2510.21326v1">typoglycemia</a> text spoofing, area visual search, and universal password lock.</p>
 </td>
 </tr>
 <tr>
