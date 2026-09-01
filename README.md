@@ -25,7 +25,7 @@
 <tr>
 <td width="140" align="center" valign="middle" height="110">
 <a href="https://github.com/rachit9876/bitArchive/releases">
-<img src="https://cdn-public.pages.dev/public/7306f2977d10.png" width="90" alt="Bit Archive" onerror="this.style.display='none'"/>
+<img src="https://dr-fast-upload.pages.dev/public/7306f2977d10.png" width="90" alt="Bit Archive" onerror="this.style.display='none'"/>
 </a>
 </td>
 <td align="left" valign="top">
@@ -113,7 +113,7 @@
 <tr>
 <td width="140" align="center" valign="middle" height="110">
 <a href="https://iffco-portal.page.gd/index.php">
-<img src="https://cdn-public.pages.dev/public/a837897fdf10.webp" width="90" alt="IFFCO Portal" onerror="this.style.display='none'"/>
+<img src="https://dr-fast-upload.pages.dev/public/a837897fdf10.webp" width="90" alt="IFFCO Portal" onerror="this.style.display='none'"/>
 </a>
 </td>
 <td align="left" valign="top">
