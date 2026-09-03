@@ -14,11 +14,11 @@
 <tr>
 <td width="140" align="center" valign="middle" height="110">
 <a href="https://github.com/rachit9876/TabMaxxing">
-<img src="https://dr-fast-upload.pages.dev/public/7cc16d656216.png" width="90" alt="Media Blocker" onerror="this.style.display='none'"/>
+<img src="https://dr-fast-upload.pages.dev/public/7cc16d656216.png" width="90" alt="TabMaxxing" onerror="this.style.display='none'"/>
 </a>
 </td>
 <td align="left" valign="top">
-<h3>Media Blocker</h3>
+<h3>TabMaxxing</h3>
 <p>Max out your Chromium tabs: Visual privacy filters, audio compressor & mono downmixing, 1-click clipboard image copier, Instagram downloader, <a href="https://arxiv.org/html/2510.21326v1">typoglycemia</a> text spoofing, area visual search, and universal password lock.</p>
 </td>
 </tr>
