@@ -14,7 +14,7 @@
 <tr>
 <td width="140" align="center" valign="middle" height="110">
 <a href="https://github.com/rachit9876/TabMaxxing">
-<img src="https://dr-fast-upload.pages.dev/public/7cc16d656216.png" width="90" alt="TabMaxxing" onerror="this.style.display='none'"/>
+<img src="https://dr-fast-upload.pages.dev/public/1f241a166068.webp" width="90" alt="TabMaxxing" onerror="this.style.display='none'"/>
 </a>
 </td>
 <td align="left" valign="top">
