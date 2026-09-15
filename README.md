@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%232DD4BF&size=30&center=true&vCenter=true&width=520&duration=3000&pause=1000&lines=Hello%2C+I'm+Rachit;Exploring+New+Hobbies..." alt="Typing introduction" />
 
-<img src="https://img.shields.io/badge/Focus-Vulnerability-334155?style=for-the-badge&labelColor=1e293b&color=2DD4BF" alt="Primary focus" />
+<img src="https://img.shields.io/badge/Reverse-Engineering-334155?style=for-the-badge&labelColor=1e293b&color=000000" alt="Primary focus" />
 
 <hr>
 
