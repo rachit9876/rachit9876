@@ -13,6 +13,17 @@
 <table width="100%">
 <tr>
 <td width="140" align="center" valign="middle" height="110">
+<a href="https://github.com/rachit9876/ghost-in-the-gpu">
+<img src="https://dr-fast-upload.pages.dev/public/86c9a5f1d07d.webp" width="90" alt="Ghost in the GPU" onerror="this.style.display='none'"/>
+</a>
+</td>
+<td align="left" valign="top">
+<h3>Ghost in the GPU</h3>
+<p>A multi domain active learning sensory engine that maps your unique visual affinity into a lightweight neural core. Features isolated aesthetic domains, a 60–120 FPS Neo Brutalist flex sorter, and a companion browser extension for real time scoring.</p>
+</td>
+</tr>
+<tr>
+<td width="140" align="center" valign="middle" height="110">
 <a href="https://github.com/rachit9876/TabMaxxing">
 <img src="https://dr-fast-upload.pages.dev/public/1f241a166068.webp" width="90" alt="TabMaxxing" onerror="this.style.display='none'"/>
 </a>
