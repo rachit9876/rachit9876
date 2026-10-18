@@ -14,7 +14,7 @@
 <tr>
 <td width="140" align="center" valign="middle" height="110">
 <a href="https://github.com/rachit9876/ghost-in-the-gpu">
-<img src="https://dr-fast-upload.pages.dev/public/86c9a5f1d07d.webp" width="90" alt="Ghost in the GPU" onerror="this.style.display='none'"/>
+<img src="https://media1.tenor.com/m/YCDZqTrwaD0AAAAd/tao-bittensor.gif" width="90" alt="Ghost in the GPU" onerror="this.style.display='none'"/>
 </a>
 </td>
 <td align="left" valign="top">
