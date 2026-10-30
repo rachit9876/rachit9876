@@ -80,7 +80,7 @@
 <tr>
 <td width="140" align="center" valign="middle" height="110">
 <a href="https://github.com/rachit9876/robust-image-watermark">
-<img src="https://dr-fast-upload.pages.dev/public/bdaa9b9e2dd9.webp" width="90" alt="robust-image-watermark" onerror="this.style.display='none'"/>
+<img src="https://dr-fast-upload.pages.dev/public/0e73ebf77f8e.webp" width="90" alt="robust-image-watermark" onerror="this.style.display='none'"/>
 </a>
 </td>
 <td align="left" valign="top">
