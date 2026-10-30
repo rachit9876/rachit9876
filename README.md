@@ -19,7 +19,7 @@
 | **[Robust&nbsp;Image&nbsp;Watermark](https://github.com/rachit9876/robust-image-watermark)** | Blind watermark that survives compression, EXIF stripping, tight crops, and screenshots. |
 | **[Comment&nbsp;Analyzer](https://commentanalyzer.pages.dev/text-analyzer)** | Lexical tool surfacing sentiment, engagement, and moderation-flag patterns in comment sections. |
 | **[Bit&nbsp;Archive](https://github.com/rachit9876/bitArchive/releases)** | React Native Android app : 25 MB free file hosting, GitHub auth. |
-| **[Image&nbsp;Hosting](https://dr-fast-upload.pages.dev/)** | JAMstack image hosting : lossless uploads, CDN delivery, 25 MB limit. |
+| **[Dr&nbsp;Fast&nbsp;Upload](https://dr-fast-upload.pages.dev/)** | JAMstack image hosting : lossless uploads, CDN delivery, 25 MB limit. |
 
 <details>
 <summary>&nbsp;&nbsp;<b>&nbsp;More projects…</b></summary>
