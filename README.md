@@ -47,7 +47,7 @@
 <tr>
 <td width="140" align="center" valign="middle">
 <a href="https://commentanalyzer.pages.dev/">
-<img src="https://dr-fast-upload.pages.dev/public/f27fba04ebb6.webp" width="90" alt="Comment Analyzer" />
+<img src="https://dr-fast-upload.pages.dev/public/24f85013e3f5.webp" width="90" alt="Comment Analyzer" />
 </a>
 </td>
 <td align="left" valign="top">
@@ -58,7 +58,7 @@
 <tr>
 <td width="140" align="center" valign="middle">
 <a href="https://github.com/rachit9876/bitArchive/releases">
-<img src="https://dr-fast-upload.pages.dev/public/7306f2977d10.png" width="90" alt="Bit Archive" />
+<img src="https://dr-fast-upload.pages.dev/public/f8659b166650.webp" width="90" alt="Bit Archive" />
 </a>
 </td>
 <td align="left" valign="top">
