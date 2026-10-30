@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://dr-fast-upload.pages.dev/public/4b729e9e4b52.png" alt="Profile header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%232DD4BF&size=30&center=true&vCenter=true&width=520&duration=3000&pause=1000&lines=Hello%2C+I'm+Rachit;Exploring+New+Hobbies..." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%232DD4BF&size=30&center=true&vCenter=true&width=600&duration=3000&pause=1000&lines=Hello%2C+I'm+Rachit%3Baka+Rachit+P.%3BExploring+New+Hobbies..." alt="Typing introduction" />
 
-<img src="https://img.shields.io/badge/Reverse-Engineering-334155?style=for-the-badge&labelColor=1e293b&color=000000" alt="Primary focus" />
+<img src="https://img.shields.io/badge/Reverse_Engineering-0f172a?style=for-the-badge" alt="Primary focus" />
 
 <hr>
 
@@ -12,9 +12,9 @@
 
 <table width="100%">
 <tr>
-<td width="140" align="center" valign="middle" height="110">
+<td width="140" align="center" valign="middle">
 <a href="https://github.com/rachit9876/ghost-in-the-gpu">
-<img src="https://dr-fast-upload.pages.dev/public/9c64a113d24a.webp" width="90" alt="Ghost in the GPU" onerror="this.style.display='none'"/>
+<img src="https://dr-fast-upload.pages.dev/public/9c64a113d24a.webp" width="90" alt="Ghost in the GPU" />
 </a>
 </td>
 <td align="left" valign="top">
@@ -23,20 +23,20 @@
 </td>
 </tr>
 <tr>
-<td width="140" align="center" valign="middle" height="110">
+<td width="140" align="center" valign="middle">
 <a href="https://github.com/rachit9876/TabMaxxing">
-<img src="https://dr-fast-upload.pages.dev/public/1f241a166068.webp" width="90" alt="TabMaxxing" onerror="this.style.display='none'"/>
+<img src="https://dr-fast-upload.pages.dev/public/1f241a166068.webp" width="90" alt="TabMaxxing" />
 </a>
 </td>
 <td align="left" valign="top">
 <h3>TabMaxxing</h3>
-<p>Max out your Chromium tabs: Visual privacy filters, audio compressor & mono downmixing, 1-click clipboard image copier, Instagram downloader, <a href="https://arxiv.org/html/2510.21326v1">typoglycemia</a> text spoofing, area visual search, and universal password lock.</p>
+<p>Max out your Chromium tabs: Visual privacy filters, audio compressor &amp; mono downmixing, 1-click clipboard image copier, Instagram downloader, <a href="https://arxiv.org/html/2510.21326v1">typoglycemia</a> text spoofing, area visual search, and universal password lock.</p>
 </td>
 </tr>
 <tr>
-<td width="140" align="center" valign="middle" height="110">
+<td width="140" align="center" valign="middle">
 <a href="https://github.com/rachit9876/bitArchive/releases">
-<img src="https://dr-fast-upload.pages.dev/public/7306f2977d10.png" width="90" alt="Bit Archive" onerror="this.style.display='none'"/>
+<img src="https://dr-fast-upload.pages.dev/public/7306f2977d10.png" width="90" alt="Bit Archive" />
 </a>
 </td>
 <td align="left" valign="top">
@@ -45,9 +45,9 @@
 </td>
 </tr>
 <tr>
-<td width="140" align="center" valign="middle" height="110">
+<td width="140" align="center" valign="middle">
 <a href="https://iccarriers.pages.dev/">
-<img src="https://iccarriers.pages.dev/assets/imgs/logo.webp" width="90" alt="IC Carriers" onerror="this.style.display='none'"/>
+<img src="https://iccarriers.pages.dev/assets/imgs/logo.webp" width="90" alt="IC Carriers" />
 </a>
 </td>
 <td align="left" valign="top">
@@ -56,9 +56,9 @@
 </td>
 </tr>
 <tr>
-<td width="140" align="center" valign="middle" height="110">
+<td width="140" align="center" valign="middle">
 <a href="https://dr-fast-upload.pages.dev/">
-<img src="https://dr-fast-upload.pages.dev/public/03eb20059ed1.png" width="90" alt="Image Hosting" onerror="this.style.display='none'"/>
+<img src="https://dr-fast-upload.pages.dev/public/03eb20059ed1.png" width="90" alt="Image Hosting" />
 </a>
 </td>
 <td align="left" valign="top">
@@ -67,9 +67,9 @@
 </td>
 </tr>
 <tr>
-<td width="140" align="center" valign="middle" height="110">
+<td width="140" align="center" valign="middle">
 <a href="https://cdn-share.pages.dev/">
-<img src="https://cdn-share.pages.dev/assets/logo.svg" width="90" alt="File Sharing" onerror="this.style.display='none'"/>
+<img src="https://cdn-share.pages.dev/assets/logo.svg" width="90" alt="File Sharing" />
 </a>
 </td>
 <td align="left" valign="top">
@@ -78,9 +78,9 @@
 </td>
 </tr>
 <tr>
-<td width="140" align="center" valign="middle" height="110">
+<td width="140" align="center" valign="middle">
 <a href="https://github.com/rachit9876/robust-image-watermark">
-<img src="https://dr-fast-upload.pages.dev/public/0e73ebf77f8e.webp" width="90" alt="robust-image-watermark" onerror="this.style.display='none'"/>
+<img src="https://dr-fast-upload.pages.dev/public/0e73ebf77f8e.webp" width="90" alt="Robust Image Watermark" />
 </a>
 </td>
 <td align="left" valign="top">
@@ -89,9 +89,9 @@
 </td>
 </tr>
 <tr>
-<td width="140" align="center" valign="middle" height="110">
+<td width="140" align="center" valign="middle">
 <a href="https://commentanalyzer.pages.dev/">
-<img src="https://cdn-fast.pages.dev/rachit9876/commentanalyzer.webp" width="90" alt="Comment Analyzer" onerror="this.style.display='none'"/>
+<img src="https://cdn-fast.pages.dev/rachit9876/commentanalyzer.webp" width="90" alt="Comment Analyzer" />
 </a>
 </td>
 <td align="left" valign="top">
@@ -100,9 +100,9 @@
 </td>
 </tr>
 <tr>
-<td width="140" align="center" valign="middle" height="110">
+<td width="140" align="center" valign="middle">
 <a href="https://metacleaner.pages.dev/">
-<img src="https://metacleaner.pages.dev/assets/logo.png" width="90" alt="Meta Cleaner" onerror="this.style.display='none'"/>
+<img src="https://metacleaner.pages.dev/assets/logo.png" width="90" alt="Meta Cleaner" />
 </a>
 </td>
 <td align="left" valign="top">
@@ -111,9 +111,9 @@
 </td>
 </tr>
 <tr>
-<td width="140" align="center" valign="middle" height="110">
+<td width="140" align="center" valign="middle">
 <a href="https://schan.pages.dev/">
-<img src="https://schan.pages.dev/assets/image.webp" width="90" alt="Schan" onerror="this.style.display='none'"/>
+<img src="https://schan.pages.dev/assets/image.webp" width="90" alt="Schan" />
 </a>
 </td>
 <td align="left" valign="top">
@@ -122,9 +122,9 @@
 </td>
 </tr>
 <tr>
-<td width="140" align="center" valign="middle" height="110">
+<td width="140" align="center" valign="middle">
 <a href="https://iffco-portal.page.gd/index.php">
-<img src="https://dr-fast-upload.pages.dev/public/a837897fdf10.webp" width="90" alt="IFFCO Portal" onerror="this.style.display='none'"/>
+<img src="https://dr-fast-upload.pages.dev/public/a837897fdf10.webp" width="90" alt="IFFCO Portal" />
 </a>
 </td>
 <td align="left" valign="top">
@@ -133,9 +133,9 @@
 </td>
 </tr>
 <tr>
-<td width="140" align="center" valign="middle" height="110">
+<td width="140" align="center" valign="middle">
 <a href="https://7system.pages.dev/">
-<img src="https://dr-fast-upload.pages.dev/public/d99bf38b2c8f.webp" width="90" alt="Map Mind" onerror="this.style.display='none'"/>
+<img src="https://dr-fast-upload.pages.dev/public/d99bf38b2c8f.webp" width="90" alt="7 System" />
 </a>
 </td>
 <td align="left" valign="top">
@@ -159,7 +159,7 @@
 
 <hr>
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=22&duration=3000&pause=1500&color=%232DD4BF&center=true&vCenter=true&width=460&lines=Stay+Curious.;Stay+Secure." alt="Closing message" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=22&duration=3000&pause=1500&color=%232DD4BF&center=true&vCenter=true&width=600&lines=Stay+Curious.%3BStay+Secure." alt="Closing message" />
 
 <img width="100%" src="https://dr-fast-upload.pages.dev/public/4b729e9e4b52.png" alt="Footer" />
 
