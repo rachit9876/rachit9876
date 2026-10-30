@@ -19,7 +19,7 @@
 </td>
 <td align="left" valign="top">
 <h3>Ghost in the GPU</h3>
-<p>A multi domain active learning sensory engine that maps your unique visual affinity into a lightweight neural core. Features isolated aesthetic domains, a 60–120 FPS Neo Brutalist flex sorter, and a companion browser extension for real time scoring.</p>
+<p>A multi domain active learning sensory engine that maps your unique visual affinity into a lightweight neural core. Featuring isolated aesthetic domains, it preserves your sensory perception inside a neural model so a piece of your aesthetic judgment stays alive in CUDA memory through PE-Core ViT embeddings.</p>
 </td>
 </tr>
 <tr>
