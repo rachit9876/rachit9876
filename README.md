@@ -14,7 +14,7 @@
 <tr>
 <td width="140" align="center" valign="middle" height="110">
 <a href="https://github.com/rachit9876/ghost-in-the-gpu">
-<img src="https://media1.tenor.com/m/YCDZqTrwaD0AAAAd/tao-bittensor.gif" width="90" alt="Ghost in the GPU" onerror="this.style.display='none'"/>
+<img src="https://dr-fast-upload.pages.dev/public/9c64a113d24a.webp" width="90" alt="Ghost in the GPU" onerror="this.style.display='none'"/>
 </a>
 </td>
 <td align="left" valign="top">
@@ -79,13 +79,13 @@
 </tr>
 <tr>
 <td width="140" align="center" valign="middle" height="110">
-<a href="https://courage-networks.pages.dev/">
-<img src="https://cdn-fast.pages.dev/rachit9876/CN.webp" width="90" alt="Courage Networks" onerror="this.style.display='none'"/>
+<a href="https://github.com/rachit9876/robust-image-watermark">
+<img src="https://dr-fast-upload.pages.dev/public/bdaa9b9e2dd9.webp" width="90" alt="robust-image-watermark" onerror="this.style.display='none'"/>
 </a>
 </td>
 <td align="left" valign="top">
-<h3>Courage Networks</h3>
-<p>A small hobby archive for fans of <em>Courage the Cowardly Dog</em>. Has some official soundtracks and character info pulled from various public sources.</p>
+<h3>Robust Image Watermark</h3>
+<p>A resilient, blind image watermark engineered to survive aggressive compression, EXIF stripping, tight crops, and screenshots.</p>
 </td>
 </tr>
 <tr>
