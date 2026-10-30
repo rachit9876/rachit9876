@@ -47,7 +47,7 @@
 <tr>
 <td width="140" align="center" valign="middle">
 <a href="https://commentanalyzer.pages.dev/">
-<img src="https://cdn-fast.pages.dev/rachit9876/commentanalyzer.webp" width="90" alt="Comment Analyzer" />
+<img src="https://dr-fast-upload.pages.dev/public/f27fba04ebb6.webp" width="90" alt="Comment Analyzer" />
 </a>
 </td>
 <td align="left" valign="top">
