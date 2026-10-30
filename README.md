@@ -35,50 +35,6 @@
 </tr>
 <tr>
 <td width="140" align="center" valign="middle">
-<a href="https://github.com/rachit9876/bitArchive/releases">
-<img src="https://dr-fast-upload.pages.dev/public/7306f2977d10.png" width="90" alt="Bit Archive" />
-</a>
-</td>
-<td align="left" valign="top">
-<h3>Bit Archive</h3>
-<p>An Android app built with React Native. It offers free file hosting up to 25 MB per file and uses GitHub for authentication.</p>
-</td>
-</tr>
-<tr>
-<td width="140" align="center" valign="middle">
-<a href="https://iccarriers.pages.dev/">
-<img src="https://iccarriers.pages.dev/assets/imgs/logo.webp" width="90" alt="IC Carriers" />
-</a>
-</td>
-<td align="left" valign="top">
-<h3>Indo Canadian Carriers</h3>
-<p>A corporate website made for a Canadian logistics company. Built with SEO and web indexing in mind.</p>
-</td>
-</tr>
-<tr>
-<td width="140" align="center" valign="middle">
-<a href="https://dr-fast-upload.pages.dev/">
-<img src="https://dr-fast-upload.pages.dev/public/03eb20059ed1.png" width="90" alt="Image Hosting" />
-</a>
-</td>
-<td align="left" valign="top">
-<h3>Image Hosting</h3>
-<p>A JAMstack based image upload and hosting service. Lossless uploads, CDN delivery, and a 25 MB per image limit. Fairly quick to use.</p>
-</td>
-</tr>
-<tr>
-<td width="140" align="center" valign="middle">
-<a href="https://cdn-share.pages.dev/">
-<img src="https://cdn-share.pages.dev/assets/logo.svg" width="90" alt="File Sharing" />
-</a>
-</td>
-<td align="left" valign="top">
-<h3>Online Clipboard</h3>
-<p>A simple JAMstack clipboard sharing tool with a clean UI. Uses Firebase Realtime Database for access, with API keys kept off the client side via Cloudflare Workers.</p>
-</td>
-</tr>
-<tr>
-<td width="140" align="center" valign="middle">
 <a href="https://github.com/rachit9876/robust-image-watermark">
 <img src="https://dr-fast-upload.pages.dev/public/0e73ebf77f8e.webp" width="90" alt="Robust Image Watermark" />
 </a>
@@ -101,6 +57,47 @@
 </tr>
 <tr>
 <td width="140" align="center" valign="middle">
+<a href="https://github.com/rachit9876/bitArchive/releases">
+<img src="https://dr-fast-upload.pages.dev/public/7306f2977d10.png" width="90" alt="Bit Archive" />
+</a>
+</td>
+<td align="left" valign="top">
+<h3>Bit Archive</h3>
+<p>An Android app built with React Native. It offers free file hosting up to 25 MB per file and uses GitHub for authentication.</p>
+</td>
+</tr>
+<tr>
+<td width="140" align="center" valign="middle">
+<a href="https://dr-fast-upload.pages.dev/">
+<img src="https://dr-fast-upload.pages.dev/public/03eb20059ed1.png" width="90" alt="Image Hosting" />
+</a>
+</td>
+<td align="left" valign="top">
+<h3>Image Hosting</h3>
+<p>A JAMstack based image upload and hosting service. Lossless uploads, CDN delivery, and a 25 MB per image limit. Fairly quick to use.</p>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>More projects</strong></summary>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="140" align="center" valign="middle">
+<a href="https://cdn-share.pages.dev/">
+<img src="https://cdn-share.pages.dev/assets/logo.svg" width="90" alt="Online Clipboard" />
+</a>
+</td>
+<td align="left" valign="top">
+<h3>Online Clipboard</h3>
+<p>A simple JAMstack clipboard sharing tool with a clean UI. Uses Firebase Realtime Database for access, with API keys kept off the client side via Cloudflare Workers.</p>
+</td>
+</tr>
+<tr>
+<td width="140" align="center" valign="middle">
 <a href="https://metacleaner.pages.dev/">
 <img src="https://metacleaner.pages.dev/assets/logo.png" width="90" alt="Meta Cleaner" />
 </a>
@@ -112,13 +109,13 @@
 </tr>
 <tr>
 <td width="140" align="center" valign="middle">
-<a href="https://schan.pages.dev/">
-<img src="https://schan.pages.dev/assets/image.webp" width="90" alt="Schan" />
+<a href="https://iccarriers.pages.dev/">
+<img src="https://iccarriers.pages.dev/assets/imgs/logo.webp" width="90" alt="IC Carriers" />
 </a>
 </td>
 <td align="left" valign="top">
-<h3>Schan</h3>
-<p>A hobby project for watching old cartoons. Media is pulled and organized from public archives.</p>
+<h3>Indo Canadian Carriers</h3>
+<p>A corporate website made for a Canadian logistics company. Built with SEO and web indexing in mind.</p>
 </td>
 </tr>
 <tr>
@@ -134,6 +131,17 @@
 </tr>
 <tr>
 <td width="140" align="center" valign="middle">
+<a href="https://schan.pages.dev/">
+<img src="https://schan.pages.dev/assets/image.webp" width="90" alt="Schan" />
+</a>
+</td>
+<td align="left" valign="top">
+<h3>Schan</h3>
+<p>A hobby project for watching old cartoons. Media is pulled and organized from public archives.</p>
+</td>
+</tr>
+<tr>
+<td width="140" align="center" valign="middle">
 <a href="https://7system.pages.dev/">
 <img src="https://dr-fast-upload.pages.dev/public/d99bf38b2c8f.webp" width="90" alt="7 System" />
 </a>
@@ -144,6 +152,8 @@
 </td>
 </tr>
 </table>
+
+</details>
 
 <hr>
 
