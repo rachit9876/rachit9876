@@ -73,7 +73,7 @@
 </a>
 </td>
 <td align="left" valign="top">
-<h3>File Sharing</h3>
+<h3>Online Clipboard</h3>
 <p>A simple JAMstack clipboard sharing tool with a clean UI. Uses Firebase Realtime Database for access, with API keys kept off the client side via Cloudflare Workers.</p>
 </td>
 </tr>
